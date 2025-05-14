@@ -34,3 +34,12 @@ How to Run
 3. Open terminal or command prompt.
 4. Run the script:
      python project.py
+
+
+
+Some Screeshots of Project
+[Figure_1](https://github.com/user-attachments/assets/fa032e31-8171-447f-8ef4-12752a26c832)
+[Figure_2](https://github.com/user-attachments/assets/593829ca-b957-4bb2-9a0a-e913e7fc6ac1)
+[Figure_3](https://github.com/user-attachments/assets/1b78bc62-4eef-4299-9cd3-59a2f763c509)
+
+
